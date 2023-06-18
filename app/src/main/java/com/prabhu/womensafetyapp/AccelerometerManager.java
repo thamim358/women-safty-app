@@ -10,6 +10,8 @@ import android.widget.Toast;
  
 public class AccelerometerManager {
   
+
+    
     private static Context aContext=null;
      
      

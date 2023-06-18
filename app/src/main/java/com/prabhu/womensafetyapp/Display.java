@@ -13,6 +13,7 @@ import android.view.View;
 public class Display extends Activity{
 	
 
+	
 	Cursor c;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {

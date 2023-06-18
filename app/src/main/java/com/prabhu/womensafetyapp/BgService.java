@@ -22,6 +22,7 @@ import android.widget.Toast;
 @SuppressLint("HandlerLeak")
 
 
+
 public class BgService extends Service implements AccelerometerListener{
 	
     String str_address;
